@@ -1,1 +1,3 @@
-# CivEarth-Docs
+# CivEarth Docs
+
+> An awesome project.
